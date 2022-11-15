@@ -1,0 +1,15 @@
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\bin\Debug\net6.0\guessingGame.exe
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\bin\Debug\net6.0\guessingGame.deps.json
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\bin\Debug\net6.0\guessingGame.runtimeconfig.json
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\bin\Debug\net6.0\guessingGame.dll
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\bin\Debug\net6.0\guessingGame.pdb
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\obj\Debug\net6.0\guessingGame.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\obj\Debug\net6.0\guessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\obj\Debug\net6.0\guessingGame.AssemblyInfoInputs.cache
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\obj\Debug\net6.0\guessingGame.AssemblyInfo.cs
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\obj\Debug\net6.0\guessingGame.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\obj\Debug\net6.0\guessingGame.dll
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\obj\Debug\net6.0\refint\guessingGame.dll
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\obj\Debug\net6.0\guessingGame.pdb
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\obj\Debug\net6.0\guessingGame.genruntimeconfig.cache
+C:\Users\MyPC\source\repos\guessingGame\guessingGame\obj\Debug\net6.0\ref\guessingGame.dll
